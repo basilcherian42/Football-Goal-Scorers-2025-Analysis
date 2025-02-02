@@ -1,4 +1,4 @@
-Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG
+Rank,Player,Nation,Pos,Squad,Comp,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG
 1,Max Aarons,ENG,DF,Bournemouth,Premier League,25,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,Max Aarons,ENG,MF,Valencia,La Liga,25,2000,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,Rodrigo Abajas,ESP,DF,Valencia,La Liga,21,2003,0.7,0,1,0,0,1.38,0,0,0,24.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1
