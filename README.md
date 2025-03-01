@@ -12,7 +12,7 @@
    - Extracts goal-scoring and shooting statistics from FBref using a Python notebook with Selenium WebDriver.
    
 2. **Data Cleaning & Processing**  
-   - Cleans and processes the scraped data using Pandas and NumPy for accuracy and consistency.
+   - Cleans and processes the scraped data using Pandas and NumPy.
 
 3. **Data Visualization in Power BI**  
    - Loads the cleaned dataset into Power BI to create interactive visualizations.
@@ -38,26 +38,15 @@ The Power BI dashboard consists of **three pages** with the following visualizat
 ## 🖼️ Dashboard Screenshots
 
 ### 📌 Page 1: League Overview
-*(Insert Screenshot Here)*
+![image](https://github.com/user-attachments/assets/aee5b7ab-55ff-42e7-83d8-32cb750f7eac)
+
 
 ### 📌 Page 2: Shooting Efficiency
-*(Insert Screenshot Here)*
+![image](https://github.com/user-attachments/assets/990c4924-b4df-44ed-8f06-aae76f0be592)
+
 
 ### 📌 Page 3: Shot Volume vs. Quality
-*(Insert Screenshot Here)*
+![image](https://github.com/user-attachments/assets/4cdd5393-d394-4a68-b66e-d6f5db322056)
+
 
 ---
-
-## 🚀 How to Run
-
-### Prerequisites
-- Python (>=3.8)
-- Selenium WebDriver
-- Pandas & NumPy
-- Power BI Desktop
-
-### Steps
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Football-Goal-Scorers-2025-Analysis.git
